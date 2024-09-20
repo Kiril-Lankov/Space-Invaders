@@ -3,10 +3,9 @@ The classic 90s game "Space Invaders".
 Used technologies : JavaScript, HTML, CSS
 
 
-![SpInavaders1 jpeg](https://github.com/user-attachments/assets/df211e35-685f-4421-9f81-d4eb618b3f4b)
+![SpInavaders1 jpeg](https://github.com/user-attachments/assets/c374dfe2-d8aa-4452-8972-bbcccae6b7e3)
 
+![SpInvaders3 jpeg](https://github.com/user-attachments/assets/da2671c5-2c0f-4439-9e1b-75d0d15954b7)
 
-![SpInvaders3 jpeg](https://github.com/user-attachments/assets/72cdde8b-6a0c-4b21-afd4-1a92f1bdaa6e)
+![SpInvaders2 jpeg](https://github.com/user-attachments/assets/9d48e9b0-a728-45c9-8283-bb8b370756a3)
 
-
-![SpInvaders2 jpeg](https://github.com/user-attachments/assets/e02df9e1-4866-48df-a017-4c1cf65890ee)
